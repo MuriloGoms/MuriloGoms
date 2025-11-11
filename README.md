@@ -1,4 +1,4 @@
-
+![Image](https://github.com/user-attachments/assets/35d3b59e-1572-4413-acb2-c4bf1f30f12b)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gomes.cpp/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/murilo-gomes-6412b5388/) 
 
